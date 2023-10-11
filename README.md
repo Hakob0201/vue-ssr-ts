@@ -20,3 +20,8 @@ npm i
 npm run build
 ```
 
+# Backend Repository
+```
+https://github.com/Hakob0201/express-typeorm-redis-postgres.git
+```
+
